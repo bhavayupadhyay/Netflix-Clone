@@ -2,7 +2,7 @@
 
 A Netflix clone built using modern web technologies to replicate the design and functionality of Netflix. This project is a great way to learn about front-end development, APIs, and building user interfaces similar to popular streaming services.
 
-## Features
+## Features 
 
 - User-friendly interface with smooth transitions
 - Browse movies and TV shows by categories
